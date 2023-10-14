@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
        navbar.classList.remove('active');
    };
 
-   var homeSwiper = new Swiper(".home-slider", {
+   var homeSwiper = new Swiper(".index-slider", {
        loop: true,
        navigation: {
            nextEl: ".swiper-button-next",
