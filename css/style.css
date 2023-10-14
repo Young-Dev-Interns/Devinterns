@@ -133,11 +133,11 @@ section{
    display: none;
 }
 
-.home{
+.index{
    padding:0;
 }
 
-.home .slide{
+.index .slide{
    text-align: center;
    padding:2rem;
    display: flex;
@@ -148,12 +148,12 @@ section{
    min-height: 60rem;
 }
 
-.home .slide .content{
+.index .slide .content{
    width: 85rem;
    display: none;
 }
 
-.home .swiper-slide-active .content{
+.index .swiper-slide-active .content{
    display: inline-block;
 }
 
